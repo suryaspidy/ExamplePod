@@ -1,0 +1,22 @@
+{
+  "name": "ExamplePod",
+  "version": "0.1.0",
+  "summary": "A short description of ExamplePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suryaspidy/ExamplePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suryaspidy": "ss0972203@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/suryaspidy/ExamplePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ExamplePod/Classes/**/*"
+}
